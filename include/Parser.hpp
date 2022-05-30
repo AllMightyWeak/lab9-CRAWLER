@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by AllMightyWeak
 
 #ifndef INCLUDE_PARSER_HPP_
 #define INCLUDE_PARSER_HPP_

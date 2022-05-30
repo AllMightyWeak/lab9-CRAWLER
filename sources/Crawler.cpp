@@ -1,4 +1,5 @@
-// Copyright by Enigma
+// Copyright by AllMightyWeak
+
 #include <Crawler.h>
 #include <Downloader.h>
 #include <Parser.hpp>

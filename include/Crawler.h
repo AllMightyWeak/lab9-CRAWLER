@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by AllMightyWeak
 
 #ifndef INCLUDE_CRAWLER_HPP_
 #define INCLUDE_CRAWLER_HPP_
@@ -38,8 +38,7 @@ class Crawler{
                                           file(std::move(path)){}
   ~Crawler();
 
-  void start(const std::string& url, const int& num_loaders, const int&
-                                                                 num_parsers);
+  void start(const std::string& url, const int& num_loaders, const int& num_parsers);
 
   void print_in_file(const std::string& file_path);
  private:
